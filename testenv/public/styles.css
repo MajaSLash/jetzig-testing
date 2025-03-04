@@ -4,7 +4,20 @@
  *
  */
 
+ body {
+    background-color: rgb(6, 6, 41);
+    color: white;
+}
+
 .message {
     font-weight: bold;
     font-size: 3rem;
+}
+
+
+.logo_link {
+    float: left;
+    padding: 16px;
+    width: 30%;
+    text-align: center;
 }
